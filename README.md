@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enricrypto
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Javascript and Solidity
-- 💞️ I’m looking to collaborate on any projects in HTML and Javascript
+- 👀 Interested in programming, full-stack development and blockchain.  
+- 🌱 Currently learning Javascript, Phyton and React JS. 
+- 💞️ Looking to collaborate on any Front-end projects. 
 - 📫 How to reach me ...
 
 <!---
