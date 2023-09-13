@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Enrique
 - 👀 Interested in programming, full-stack development and blockchain.  
-- 🌱 Currently learning Javascript, Phyton and React JS. 
-- 💞️ Looking to collaborate on any Front-end projects. 
-- 📫 How to reach me ...
+- 🌱 Currently working with React, React Native, Typescript and Phyton.  
+- 💞️ Looking to collaborate on any Front-End and Full-Stack projects. 
+- 📫 How to reach me via www.linkedin.com/in/enrique-ibarra
 
 <!---
 Enricrypto/Enricrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
