@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enricrypto
+- 👋 Hi, I’m Enrique
 - 👀 Interested in programming, full-stack development and blockchain.  
 - 🌱 Currently learning Javascript, Phyton and React JS. 
 - 💞️ Looking to collaborate on any Front-end projects. 
