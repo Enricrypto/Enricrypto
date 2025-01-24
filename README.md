@@ -1,12 +1,12 @@
-### About Me
+##About Me
 
-👋 Hi, I’m Enrique Ibarra, a professional Full-Stack Developer with a strong interest in programming, full-stack development, and blockchain technologies. 
+👋 Hi, I’m Enrique Ibarra, a passionate Blockchain Developer with expertise in DeFi and smart contract development using Solidity.
 
-👀 I have extensive experience in React, React Native, TypeScript, Python, Node.js, and Solidity for blockchain development. Currently, I am working as a Freelancer, delivering high-quality solutions for various projects.
+🌐 Specialize in building decentralized applications (dApps) and innovative solutions using blockchain technologies, along with my full-stack skills in React, React Native, TypeScript, Python, and Node.js.
 
-🌱 I am always eager to collaborate on Front-End and Full-Stack projects, bringing innovative ideas and technical expertise to the table.
+🚀 Focus on delivering high-quality blockchain and DeFi solutions, helping projects leverage the power of decentralized finance.
 
-📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/enrique-ibarra) or contact me via email at eibarraf@gmail.com.
+📫 Feel free to reach out to me via LinkedIn or email me at eibarraf@gmail.com.
 
 <!---
 Enricrypto/Enricrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
