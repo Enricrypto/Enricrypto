@@ -1,4 +1,4 @@
-##About Me
+About Me
 
 👋 Hi, I’m Enrique Ibarra, a passionate Blockchain Developer with expertise in DeFi and smart contract development using Solidity.
 
