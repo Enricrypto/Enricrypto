@@ -7,8 +7,3 @@ About Me
 🚀 Focus on delivering high-quality blockchain and DeFi solutions, helping projects leverage the power of decentralized finance.
 
 📫 Feel free to reach out to me via LinkedIn or email me at eibarraf@gmail.com.
-
-<!---
-Enricrypto/Enricrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
